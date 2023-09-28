@@ -52,7 +52,7 @@ const estilos = StyleSheet.create({
     preco: {
         fontSize: 26,
         fontFamily: "MontserratRegular",
-        color: "2A9F85",
+        color: "#2A9F85",
         marginTop: 8
     }
 
